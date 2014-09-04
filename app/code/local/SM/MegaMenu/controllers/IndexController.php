@@ -7,7 +7,7 @@
  */
 class SM_MegaMenu_IndexController extends Mage_Core_Controller_Front_Action{
     public function indexAction(){
-        echo __METHOD__;
+        echo __METHOE__;
     } // end indexAction
 } // end class
 // end file
